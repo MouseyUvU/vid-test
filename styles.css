@@ -2,3 +2,6 @@ body {
   background-color: black;
   background-image: url("flowaxy.png");
 }
+p {
+  text-align: center;
+}
