@@ -1,7 +1,9 @@
 body {
   background-color: black;
   background-image: url("flowaxy.png");
+  <styles>
   p {
                 color: White;
             }
+  </styles>
 }
