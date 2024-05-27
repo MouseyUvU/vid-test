@@ -1,6 +1,8 @@
 body {
   background-color: black;
   background-image: url("flowaxy.png");
+  display: flex;
+flex-direction: column;
 }
 p {
   text-align: center;
