@@ -1,4 +1,7 @@
 body {
   background-color: black;
   background-image: url("flowaxy.png");
+  p {
+                color: White;
+            }
 }
