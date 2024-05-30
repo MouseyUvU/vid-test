@@ -1,16 +1,19 @@
 body {
-    background-color: black;
-    background-image: url("flowaxy.png");
-    display: flex;
-    flex-direction: column;
+	background-color: black;
+	background-image: url("flowaxy.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: flex;
+	flex-direction: column;
 }
 p {
-    color: White;
+	color: White;
 }
 h1 {
-    text-align: center;
-    color: white;
+	text-align: center;
+	color: white;
 }
 a {
-    color: white;
+	color: white;
 }
